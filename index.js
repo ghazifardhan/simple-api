@@ -15,3 +15,4 @@ mongodb.connect('mongodb://localhost:27017/cermai', function(err, db) {
 });
 
 app.get("/", API.index);
+app.post("/api/auth", API.auth);
