@@ -1,0 +1,25 @@
+{
+  "name": "simple-api",
+  "version": "1.0.0",
+  "description": "simple-api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/myzpolice/simple-api.git"
+  },
+  "keywords": [
+    "simple-api"
+  ],
+  "author": "mas_ghazi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/myzpolice/simple-api/issues"
+  },
+  "homepage": "https://github.com/myzpolice/simple-api#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
